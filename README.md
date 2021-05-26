@@ -3,7 +3,7 @@ This is a collection of loadouts made by me, Per von Harke , for Erik's Mission 
 Link to [Erik's Mission Framework](https://github.com/Tapawingo/Eric-s-Mission-Framework)
 
 **THE MODS NEEDED CHANGE FROM LOADOUT TO LOADOUT!**                                                                                                            
-The mods needed for each loadout are listed in the wiki.                 
+The mods needed for each loadout are either listed in the wiki or the `.sqf` file.                
 They are not made to fit the [Cluster Community](https://discord.gg/JggdMFz) modpack.
 
 All available loadouts with explanation and sources can be found in [the wiki](https://github.com/PervonHarke/EMF_Kits/wiki).
